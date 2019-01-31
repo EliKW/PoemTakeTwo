@@ -43,16 +43,3 @@ print('                 DESTROYED BY ' + choice(ruination))
 print('                         INHABITED BY ' + choice(inhabitants))
 print('                              ' + choice(scenario) + ' THIS PLACE')
 print('                                  FIND ' + choice(objective))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
